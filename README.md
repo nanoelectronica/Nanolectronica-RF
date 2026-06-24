@@ -8,3 +8,5 @@ Second One: Use of the open source software QUCS to extact SPICE model of a come
 Third One: RF characterization of a transistor (Equivalent circuit, FT and FMAX) with open source software QUCS.
 
 The .SCH files were done with QUCS.
+
+PDF files are written in spanish, but they contain graphic material to do it understandable for non-spanish speakers.
